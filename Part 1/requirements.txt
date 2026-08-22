@@ -1,0 +1,8 @@
+pyyaml
+duckdb
+pandas
+requests
+ipywidgets
+ipykernel
+fg-data-profiling
+setuptools<82
