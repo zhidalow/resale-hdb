@@ -16,7 +16,10 @@ py -3.13 -m venv .venv
 ```
 
 Then run the pip install inside the terminal/command prompt after venv activation:
+
 <code> pip install -r requirements.txt </code>
+
+Proceed to run all cells in <code>dev.ipynb</code> in part_1 after package installation is done. 
 
 Additional assumptions can be found in <code>part1.md</code>.
 
