@@ -1,6 +1,6 @@
 <h1> Part 1 </h1>
 <h2> Venv Setup </h2>
-setup with python 3.10 to 3.13, navigate to the working directory of <code>dev.ipynb</code>, then run the following commands in command prompt/terminal:
+setup with python 3.10 to 3.13, navigate to the working directory of repo root (resale-hdb), then run the following commands in command prompt/terminal:
 <h3 >===== Mac ===== </h3>
     
 ```
